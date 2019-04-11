@@ -1,0 +1,19 @@
+
+Jsquid:S1481#",Remove this unused "mIncome" local variable.(ö™öÇ8§Êä´ -
+Qsquid:S1481$"3Remove this unused "curRefundOrder" local variable.(³®ÔÚ8¦‡å´ -
+Nsquid:S1481$"0Remove this unused "preOrderNum" local variable.(³®ÔÚ8Éôã´ -
+Ssquid:S22098"5Change this instance-reference to a static reference.(àŞŠ¢8‘Èİ´ -
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8Áˆì´ -
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ8Áˆì´ -
+Ksquid:S1659$"-Declare "lastRefundOrder" on a separate line.(³®ÔÚ8‘Èİ´ -
+Gsquid:S1659$")Declare "preOrderNum" on a separate line.(³®ÔÚ8‘Èİ´ -
+Dsquid:S1659$"&Declare "orderSum" on a separate line.(³®ÔÚ8‘Èİ´ -
+Lsquid:S1481:")Remove this unused "temp" local variable.(Ÿ†Êÿÿÿÿÿ8±àç´ -
+Ksquid:S1481$"-Remove this unused "orderSum" local variable.(³®ÔÚ8±àç´ -
+Rsquid:S1481$"4Remove this unused "lastRefundOrder" local variable.(³®ÔÚ8ó®å´ -
+Dsquid:S1659$"&Declare "orderNum" on a separate line.(³®ÔÚ8‘Èİ´ -
+?squid:S1659#"(Declare "lastIncome" on a separate line.(ö™öÇ
+Nsquid:S1481$"0Remove this unused "curOrderNum" local variable.(³®ÔÚ8Éôã´ -
+Ksquid:S1481$"-Remove this unused "orderNum" local variable.(³®ÔÚ8±àç´ -
+Msquid:S1481#"/Remove this unused "lastIncome" local variable.(ö™öÇ8§Êä´ -
+Jsquid:S1659$",Declare "curRefundOrder" on a separate line.(³®ÔÚ8‘Èİ´ -
